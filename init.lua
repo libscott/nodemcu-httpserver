@@ -8,5 +8,5 @@ end
 -- Set up NodeMCU's WiFi
 dofile("httpserver-wifi.lc")
 
--- Start nodemcu-httpsertver
+-- Start nodemcu-httpserver
 dofile("httpserver-init.lc")
